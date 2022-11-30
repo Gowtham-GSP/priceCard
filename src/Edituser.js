@@ -2,7 +2,7 @@ import React from 'react'
 
 function Edituser() {
   return (
-    <div class="container"> 
+    <div class="container">     
     <div className='row'>
         <div className='col-lg-6'>
             <div className='form-group'>
